@@ -1,0 +1,50 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 4
+        },
+        "cap-insets" : {
+          "bottom" : 32,
+          "top" : 19,
+          "right" : 11,
+          "left" : 41
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "mapPopViewBGICon@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 34,
+          "top" : 41,
+          "right" : 12,
+          "left" : 66
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "mapPopViewBGICon@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
